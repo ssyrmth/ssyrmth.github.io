@@ -67,7 +67,7 @@ Vue.component('card', {
       this.mouseLeaveDelay = setTimeout(()=>{
         this.mouseX = 0;
         this.mouseY = 0;
-      }, 10);
+      }, 1000);
     }
   }
 });
