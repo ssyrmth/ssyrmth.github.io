@@ -34,7 +34,7 @@ h1+p, p+p {
 }
 
 .card-wrap {
-  margin: 10px;
+  margin: 25px;
   transform: perspective(800px);
   transform-style: preserve-3d;
   cursor: pointer;
@@ -59,7 +59,7 @@ h1+p, p+p {
       transition: 
         0.6s $hoverEasing,
         opacity 5s $hoverEasing;
-      opacity: 0.8;
+      opacity: 1.0;
     }
     .card {
       transition:
@@ -91,7 +91,7 @@ h1+p, p+p {
 }
 
 .card-bg {
-  opacity: 0.5;
+  opacity: 1.0;
   position: absolute;
   top: -20px; left: -20px;
   width: 100%;
