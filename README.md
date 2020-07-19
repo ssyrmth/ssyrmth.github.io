@@ -2,7 +2,9 @@
 かめりあ(Camellia) album download and archive
 
 SUPPORT かめりあ(Camellia)!!!
-<a href="https://twitter.com/cametek" target="_blank"><img class="links-icons-addition" style="float: left; height: 40px;" src="img/twitter.png" alt="Twitter"></a>
+<a href="https://twitter.com/cametek">
+    <img src="img/twitter.png" alt="Twitter" width="40" height="40">
+        </a>
 <a href="https://www.youtube.com/user/camelliaxxglitch" target="_blank"><img class="links-icons-addition" style="float: left; height: 40px;" src="img/youtube.png" alt="Youtube"></a>
 <a href="https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M" target="_blank"><img class="links-icons-addition" style="float: left; height: 40px;" src="img/spotify.png" alt="Spotify"></a>
 <a href="http://www.nicovideo.jp/mylist/16888369" target="_blank"><img class="links-icons-addition" style="float: left; height: 40px;" src="img/niconico.png" alt="niconico"></a>
